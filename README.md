@@ -7,7 +7,6 @@ Conhecendo o mundo da programação 💻 atráves de um curso técnico em inform
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
@@ -42,11 +41,27 @@ Conhecendo o mundo da programação 💻 atráves de um curso técnico em inform
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="ReactJS"
+    title="ReactJS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NextJS"
+    title="NextJS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Prisma ORM"
+    title="Prisma ORM" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
 />
 <img 
     align="left" 
