@@ -81,6 +81,22 @@ Conhecendo o mundo da programação 💻 atráves de um curso técnico em inform
 />
 <img 
     align="left" 
+    alt="PlayWright" 
+    title="PlayWright"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Vitest" 
+    title="Vitest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"
+/>
+<img 
+    align="left" 
     alt="Figma" 
     title="Figma"
     width="30px" 
