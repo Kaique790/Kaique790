@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Conhecendo o mundo da programação 💻 atráves de um curso técnico em informática, comecei a ficar cada vez mais curioso. A partir disso, comecei a implantar o estudo, a dor de cabeça e a curiosidade na minha rotina diária, hoje em dia é difícil ir dormir sem pensar como, amanhã, resolverei os bugs de hoje 😥. Estudo focado e com disciplina toda minha stack. Mantenho mais atualizações no meu LinkedIn 👉 [Kaique Bezerra dos Santos | LinkedIn](https://www.linkedin.com/in/kaique-bezerra-dos-santos-575700262/)
+Conhecendo o mundo da programação 💻 atráves de um curso técnico em informática, comecei agostar da área. A partir disso, comecei a implantar o estudo e a dor de cabeça na minha rotina diária, hoje em dia é difícil ir dormir sem pensar como, amanhã, resolverei os bugs de hoje. Mantenho mais atualizações no meu LinkedIn 👉 [Kaique Bezerra dos Santos | LinkedIn](https://www.linkedin.com/in/kaique-bezerra-dos-santos-575700262/)
 
 ---
 
